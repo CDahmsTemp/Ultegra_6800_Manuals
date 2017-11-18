@@ -35,3 +35,8 @@ brake shoe fixing bolts: 5-7 Nm
 
 brake pad retaining bolts: 1-1.5 Nm (or just go by feel)
 
+--- shoes -----------------------------------------------------------------
+
+mountain bike shoe cleat plate bolt torque: 5-6 Nm
+
+
