@@ -39,4 +39,15 @@ brake pad retaining bolts: 1-1.5 Nm (or just go by feel)
 
 mountain bike shoe cleat plate bolt torque: 5-6 Nm
 
+--- flat bar shifters -----------------------------------------------------
+
+band clamp bolt: 3 Nm
+
+--- flat bar brake levers -------------------------------------------------
+
+band clamp bolt: 6-8 Nm
+
+
+
+
 
